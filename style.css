@@ -1,0 +1,11 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    display: flex;
+}
+
+.half-widt {
+    width: 50%;
+}
