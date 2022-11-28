@@ -16,3 +16,12 @@ section {
     width: 80%;
     padding-left: 5%;
 }
+
+.link-botton {
+    text-decoration: none;
+    background-image: linear-gradient(black, red);
+    padding: 10px, 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
