@@ -20,8 +20,15 @@ section {
 .link-botton {
     text-decoration: none;
     background-image: linear-gradient(black, red);
-    padding: 10px, 40px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10PX;
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+
+.its-ok {
+    padding-top: 3%;
 }
