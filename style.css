@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 section {
@@ -31,4 +32,9 @@ section {
 
 .its-ok {
     padding-top: 3%;
+}
+
+.top-benar {
+    background-image: url(sssh.png);
+    background-repeat: no-repeat;
 }
