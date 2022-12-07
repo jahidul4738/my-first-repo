@@ -40,6 +40,11 @@ section {
 }
 
 .cen-ter {
-    width: 20%;
+    width: fit-content;
     text-align: center;
+    font-size: 30px;
+}
+
+.uk-us {
+    color: rgb(236, 129, 83);
 }
