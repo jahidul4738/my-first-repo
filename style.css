@@ -3,9 +3,6 @@ body {
     margin: 0;
 }
 
-section {
-    display: flex;
-}
 
 .half-widt {
     width: 100%;
@@ -37,6 +34,7 @@ section {
 .top-benar {
     background-image: url(sssh.png);
     background-repeat: no-repeat;
+    display: flex;
 }
 
 .cen-ter {
@@ -47,4 +45,8 @@ section {
 
 .uk-us {
     color: rgb(236, 129, 83);
+}
+
+.md-jl {
+    display: flex;
 }
