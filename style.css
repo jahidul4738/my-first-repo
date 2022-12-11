@@ -3,6 +3,11 @@ body {
     margin: 0;
 }
 
+section {
+    display: flex;
+    margin-bottom: 100px;
+}
+
 
 .half-widt {
     width: 100%;
@@ -34,7 +39,6 @@ body {
 .top-benar {
     background-image: url(sssh.png);
     background-repeat: no-repeat;
-    display: flex;
 }
 
 .cen-ter {
@@ -47,6 +51,28 @@ body {
     color: rgb(236, 129, 83);
 }
 
-.md-jl {
-    display: flex;
+.we-we {
+    padding-right: 20%;
+}
+
+.as-as {
+    font-size: 50px;
+}
+
+.er-er {
+    padding-top: 10%;
+    padding-left: 0px;
+    padding-right: 10%;
+}
+
+.sd-sd img {
+    width: 60%;
+
+}
+
+.mn-mn {
+    background-image: url(images/Screenshot.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-right: 0px;
 }
