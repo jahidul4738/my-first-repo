@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-section {
+.is-lam {
     display: flex;
     margin-bottom: 100px;
 }
@@ -71,8 +71,43 @@ section {
 }
 
 .mn-mn {
-    background-image: url(images/Screenshot.png);
+    background-image: url(images/scs\ jl.png);
     background-repeat: no-repeat;
     background-position: right;
     margin-right: 0px;
+}
+
+.yz-yz {
+
+    text-decoration: none;
+    background-image: linear-gradient(black, blue);
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10PX;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.ja-hid {
+    margin-left: 2%;
+    font-size: 30px;
+}
+
+.to-meto {
+    color: tomato;
+}
+
+.bl-ue {
+    color: blue;
+}
+
+.md-md {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3%;
 }
