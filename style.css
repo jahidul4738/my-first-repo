@@ -6,6 +6,9 @@ body {
 .is-lam {
     display: flex;
     margin-bottom: 100px;
+    background-image: url(images/Screenshot\ 2022.png);
+    background-repeat: no-repeat;
+    background-position: center left;
 }
 
 
@@ -110,4 +113,25 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     padding: 3%;
+}
+
+#ma-nna {
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato);
+    border-image-slice: 1;
+}
+
+#man-na {
+    border-left: 7px solid;
+    border-image: linear-gradient(orange);
+    border-image-slice: 1;
+}
+
+.im-ag {
+    background-image: url(images/one\ wc.jpg);
+}
+
+footer p {
+    text-align: center;
+    background-image: url(images/one\ wc.jpg);
 }
